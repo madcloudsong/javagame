@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="java">
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/client/mainFrame.java</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/client/login.java</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/client/Client.java</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/client/myButton.java</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/data/itemsdata.txt</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/data/magicdata.txt</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/data/playerdata.txt</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/data/userdata.txt</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/sharedData/sharedData.java</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/sharedData/user.java</file>
+            <file>file:/Users/madcloud/Documents/projects/firstgame/src/data/herodata.txt</file>
+        </group>
+    </open-files>
+</project-private>
